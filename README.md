@@ -37,16 +37,6 @@ I am a **Full Stack Engineer** delivering scalable solutions for enterprise-leve
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=beytullah-toprak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Beytullah's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beytullah-toprak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" height="180"/>
-</div>
-
----
-
 <div align="center">
   <a href="https://beytullahtoprak.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-beytullahtoprak.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
